@@ -2,7 +2,8 @@
 [
     {
       "id": 1,
-      "image":"https://raw.githubusercontent.com/Desp0o/dataBase/main/images/IMG_0966.webp"
+      "image":"https://raw.githubusercontent.com/Desp0o/dataBase/main/images/IMG_0966.webp",
+      "filter": "bw"
     },
     {
       "id": 2,
@@ -62,15 +63,18 @@
     },
     {
       "id": 17,
-      "image":"https://raw.githubusercontent.com/Desp0o/dataBase/main/images/IMG_2859.webp"
+      "image":"https://raw.githubusercontent.com/Desp0o/dataBase/main/images/IMG_2859.webp",
+      "filter": "bw"
     },
     {
       "id": 18,
-      "image":"https://raw.githubusercontent.com/Desp0o/dataBase/main/images/IMG_2879.webp"
+      "image":"https://raw.githubusercontent.com/Desp0o/dataBase/main/images/IMG_2879.webp",
+      "filter": "bw"
     },
     {
       "id": 19,
-      "image":"https://raw.githubusercontent.com/Desp0o/dataBase/main/images/IMG_2887.webp"
+      "image":"https://raw.githubusercontent.com/Desp0o/dataBase/main/images/IMG_2887.webp",
+      "filter": "bw"
     }
       
 ]    
