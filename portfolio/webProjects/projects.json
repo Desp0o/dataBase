@@ -3,11 +3,9 @@
     id: 1,
     image: "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/carco.webp",
     title: "Carco.Ge",
-    description:
-      "ავტო იმპორტის ვებ-გვერდი,ტრანსპორტირებისა და განბაჟების კალკულატორით.",
+    description: "ავტო იმპორტის ვებ-გვერდი,ტრანსპორტირებისა და განბაჟების კალკულატორით.",
     button: "ნახვა",
-    descriptionEng:
-      "Auto import Web page, with transportation and Customs Clearnece calculator.",
+    descriptionEng:"Auto import Web page, with transportation and Customs Clearnece calculator.",
     buttonEng: "Visit",
     link: "https://carco.ge/",
     work1: "HTML",
@@ -47,11 +45,9 @@
     id: 4,
     image: "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/sugarland.webp",
     title: "Sugarlandspamassage.com",
-    description:
-      "Sugarland Spa Massage - გამაჯანსაღებელი და   სამკურნალო მასაჟები.",
+    description:"Sugarland Spa Massage - გამაჯანსაღებელი და   სამკურნალო მასაჟები.",
     button: "ნახვა",
-    descriptionEng:
-      "Sugarland Spa Massage therapy Will bring luxury quality services.",
+    descriptionEng:"Sugarland Spa Massage therapy Will bring luxury quality services.",
     buttonEng: "Visit",
     link: "https://sugarlandspamassage.com/",
     work1: "React JS",
@@ -62,11 +58,9 @@
     id: 24,
     image: "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/vitamin.webp",
     title: "Vitamin2017.ge",
-    description:
-      "„ვიტამინი 2017“ — ხილის იმპორტის წამყვანი კომპანიაა საქართველოში, რომელიც უკვე ათწლეულზე მეტია მომხმარებელს უმაღლესი ხარისხის იმპორტირებულ ხილს აწვდის მსოფლიოს სხვადასხვა ქვეყნიდან. კომპანია სპეციალიზდება მხოლოდ ხუთი ძირითადი ხილის — ბანანის, ფორთოხლის, გრეიფრუტის, ანანასისა და ლიმონის — იმპორტსა და დისტრიბუციაზე.",
+    description:"„ვიტამინი 2017“ — ხილის იმპორტის წამყვანი კომპანიაა საქართველოში, რომელიც უკვე ათწლეულზე მეტია მომხმარებელს უმაღლესი ხარისხის იმპორტირებულ ხილს აწვდის მსოფლიოს სხვადასხვა ქვეყნიდან. კომპანია სპეციალიზდება მხოლოდ ხუთი ძირითადი ხილის — ბანანის, ფორთოხლის, გრეიფრუტის, ანანასისა და ლიმონის — იმპორტსა და დისტრიბუციაზე.",
     button: "ნახვა",
-    descriptionEng:
-      "Vitamin 2017 is a leading fruit import company in Georgia, supplying the local market with high-quality imported fruit from around the world for over a decade. The company specializes exclusively in the import and distribution of five key fruits: bananas, oranges, grapefruits, pineapples, and lemons.",
+    descriptionEng:"Vitamin 2017 is a leading fruit import company in Georgia, supplying the local market with high-quality imported fruit from around the world for over a decade. The company specializes exclusively in the import and distribution of five key fruits: bananas, oranges, grapefruits, pineapples, and lemons.",
     buttonEng: "Visit",
     link: "https://vitamin2017.ge/",
     work1: "React",
@@ -80,11 +74,9 @@
     id: 14,
     image: "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/movieCom.webp",
     title: "Movie Quiz",
-    description:
-      "მიმდინარე პროექტი, სადაც მომხარებელს შეუძლია რეგისტრაცია და ავოტრიზაცია. მომხარებელს აქვს შესაძლებლობა განათავსოს პოსტები, გამოკითხევბი, განათავსოს და ასევე ითამაშოს ქვიზები და ქვესთები. თითოეულიი ამ აქტივობით იუზერი აგროვებს ქულებს, რომლითაც იღებს ონაწილეობას გათამაშებაში და შესაძლებლობა ექნება მოიგოს პრიზები და მიიღოს ეიჩივმენთები.",
+    description:"მიმდინარე პროექტი, სადაც მომხარებელს შეუძლია რეგისტრაცია და ავოტრიზაცია. მომხარებელს აქვს შესაძლებლობა განათავსოს პოსტები, გამოკითხევბი, განათავსოს და ასევე ითამაშოს ქვიზები და ქვესთები. თითოეულიი ამ აქტივობით იუზერი აგროვებს ქულებს, რომლითაც იღებს ონაწილეობას გათამაშებაში და შესაძლებლობა ექნება მოიგოს პრიზები და მიიღოს ეიჩივმენთები.",
     button: "მიმდინარე",
-    descriptionEng:
-      "Ongoing project where users can register and authenticate. Users can create posts, polls, quizzes, and questions. They can like, save, and comment on posts. For each task, users gain points, which can help them win in ratings and get prizes. Users also earn achievements.",
+    descriptionEng:"Ongoing project where users can register and authenticate. Users can create posts, polls, quizzes, and questions. They can like, save, and comment on posts. For each task, users gain points, which can help them win in ratings and get prizes. Users also earn achievements.",
     buttonEng: "Ongoing",
     link: "https://dev.devweb.cc/#/",
     work1: "React",
