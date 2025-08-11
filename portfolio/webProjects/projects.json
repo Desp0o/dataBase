@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/carco.webp",
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/carco_prj.webp",
     "title": "Carco.Ge",
     "description": "ავტო იმპორტის ვებ-გვერდი,ტრანსპორტირებისა და განბაჟების კალკულატორით.",
     "button": "ნახვა",
@@ -40,7 +40,7 @@
   },
   {
     "id": 4,
-    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/sugarland.webp",
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/sugarlandProject.webp",
     "title": "Sugarlandspamassage.com",
     "description": "Sugarland Spa Massage - გამაჯანსაღებელი და   სამკურნალო მასაჟები.",
     "button": "ნახვა",
@@ -86,7 +86,7 @@
   },
   {
     "id": 18,
-    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/evernote.webp",
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/evernote-proj.webp",
     "title": "Evernote Lite",
     "description": "შექმენით და შეინახეთ თქვენთვის საჭირო ფაილები, დოკუმენტები და ტასკები",
     "button": "ნახვა",
@@ -132,7 +132,7 @@
   },
   {
     "id": 23,
-    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/ashtrayProj.webp",
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/ashtray_proj.png",
     "title": "Ashtray.ge",
     "description": "ერთჯერადი პლასტმასის საფერფლე დამზადებულია მაღალი ხარისხის პლასტმასისგან, რაც უზრუნველყოფს გამძლეობასა და ხანგრძლივ მოხმარებას. მისი კვადრატული ფორმა და მსუბუქი დიზაინი იდეალურ არჩევანს წარმოადგენს სახლისთვის, სასტუმროსთვის, ბარ-რესტორნისთვის და სხვა სივრცეებისთვის. არ საჭიროებს გაწმენდას – უბრალოდ შეცვალეთ, როდესაც დაბინძურდება. საფერფლე შექმნილია სიგარეტის სუნის შემცირების მიზნით, რაც ხელს უწყობს სუფთა და კომფორტული გარემოს შენარჩუნებას.",
     "button": "ნახვა",
@@ -169,7 +169,7 @@
   },
   {
     "id": 9,
-    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/myVideoPop.webp",
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/myvideoPopUp.webp",
     "title": "PopUp For Myvideo.Ge",
     "description": "არხების სიის პოპაპი Myvideo.Ge-სთვის",
     "button": "ნახვა",
@@ -182,7 +182,7 @@
   },
   {
     "id": 20,
-    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/shutter.webp",
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/shutterpic.webp",
     "title": "shutter.pics",
     "description": "პორტფოლიო ფოტოგრაფისთვის",
     "button": "ნახვა",
@@ -196,7 +196,7 @@
   },
   {
     "id": 19,
-    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/moGraph.webp",
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/mograph.webp",
     "title": "moGraph",
     "description": "მოუშენ დიზაინის კურსების ვებ გვერდი.",
     "button": "ნახვა",
@@ -222,7 +222,7 @@
   },
   {
     "id": 11,
-    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/archic.webp",
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/archic_prj.webp",
     "title": "Architect Clone",
     "description": "თანამედროვე,ესეთიკური, ტრადიციული ღირებულებების მქონე არქიტექტურული დიზაინები.",
     "button": "ნახვა",
@@ -235,7 +235,7 @@
   },
   {
     "id": 12,
-    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/chess.webp",
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/chess_prj.webp",
     "title": "Chess Championship",
     "description": "ჭადრაკის ჩემპიონატის რეგისტრაციის ფორმა.",
     "button": "ნახვა",
@@ -247,7 +247,7 @@
   },
   {
     "id": 13,
-    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/portfolio.webp",
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/portfolio_prj.webp",
     "title": "Devweb.cc",
     "description": "პორტფოლიო ვებ დეველოპერისთვის.",
     "button": "ნახვა",
@@ -260,7 +260,7 @@
   },
   {
     "id": 16,
-    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/magicMas.webp",
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/magicMassage.webp",
     "title": "MagicMassage",
     "description": "მულტი ფუნქციური მასაჟორის საინფორმაციო ვებ გვერდიის კლონი.",
     "button": "ნახვა",
@@ -300,7 +300,7 @@
   },
   {
     "id": 5,
-    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/dlab.webp",
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/webProjects/covers/3dlab.webp",
     "title": "3Dlab.Group",
     "description": "ანიმაციური სტუდია, რომელიც ქმნის სხვადასხვა ტიპის 3D სარეკლამო ანიმაციებს კომპანიებისთვის.",
     "button": "ნახვა",
