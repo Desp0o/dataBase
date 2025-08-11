@@ -1,5 +1,5 @@
-{
-  "iOSProjects": [
+
+[
     {
       "id": 1,
       "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/spm.png",
@@ -61,4 +61,3 @@
       "link": "https://github.com/Desp0o/IzziLocationKit.git"
     }
   ]
-}
