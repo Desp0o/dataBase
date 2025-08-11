@@ -1,0 +1,64 @@
+{
+  "iOSProjects": [
+    {
+      "id": 1,
+      "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/spm.png",
+      "title": "ToastKit",
+      "description": "ToastKit is a lightweight and fully customizable Swift package that helps you display informative toast messages in your app.",
+      "descriptionEng": "ToastKit is a lightweight and fully customizable Swift package that helps you display informative toast messages in your app.",
+      "button": "github",
+      "buttonEng": "github",
+      "link": "https://github.com/Desp0o/ToastKit.git"
+    },
+    {
+      "id": 2,
+      "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/spm.png",
+      "title": "StackWrapper",
+      "description": "StackWrapper helps you easily and efficiently arrange your desired elements using a flexible layout. This component dynamically adjusts in height and width based on the elements and the device’s screen size.",
+      "descriptionEng": "StackWrapper helps you easily and efficiently arrange your desired elements using a flexible layout. This component dynamically adjusts in height and width based on the elements and the device’s screen size.",
+      "button": "github",
+      "buttonEng": "github",
+      "link": "https://github.com/Desp0o/StackWrapper.git"
+    },
+    {
+      "id": 3,
+      "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/spm.png",
+      "title": "izziRequest",
+      "description": "IzziRequest is a super lightweight Swift package that helps you efficiently manage network calls in your application.",
+      "descriptionEng": "IzziRequest is a super lightweight Swift package that helps you efficiently manage network calls in your application.",
+      "button": "github",
+      "buttonEng": "github",
+      "link": "https://github.com/Desp0o/izziRequest.git"
+    },
+    {
+      "id": 4,
+      "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/spm.png",
+      "title": "IzziSession",
+      "description": "izziSession is a simple manager for secure token storage, validation, and seamless authentication handling.",
+      "descriptionEng": "izziSession is a simple manager for secure token storage, validation, and seamless authentication handling.",
+      "button": "github",
+      "buttonEng": "github",
+      "link": "https://github.com/Desp0o/IzziSession.git"
+    },
+    {
+      "id": 6,
+      "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/spm.png",
+      "title": "izziGradient",
+      "description": "Whether you need standard date formats or customized layouts, this package offers the flexibility to tailor date output to suit any project requirements..",
+      "descriptionEng": "Whether you need standard date formats or customized layouts, this package offers the flexibility to tailor date output to suit any project requirements..",
+      "button": "github",
+      "buttonEng": "github",
+      "link": "https://github.com/Desp0o/izziGradient.git"
+    },
+    {
+      "id": 7,
+      "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/spm.png",
+      "title": "IzziLocationKit",
+      "description": "IzziLocationKit is a lightweight Swift package designed for easy integration and seamless location handling in Swift apps. With it, you can get your current location and coordinates. You can also get full information about your location, like the country name, ISO code, and postal code. Plus, you can calculate the distance between two locations using the crow-fly method, or you can use addresses or city names instead. And if you want to find a route between two points, you can use coordinates or addresses or names.",
+      "descriptionEng": "IzziLocationKit is a lightweight Swift package designed for easy integration and seamless location handling in Swift apps. With it, you can get your current location and coordinates. You can also get full information about your location, like the country name, ISO code, and postal code. Plus, you can calculate the distance between two locations using the crow-fly method, or you can use addresses or city names instead. And if you want to find a route between two points, you can use coordinates or addresses or names.",
+      "button": "github",
+      "buttonEng": "github",
+      "link": "https://github.com/Desp0o/IzziLocationKit.git"
+    }
+  ]
+}
