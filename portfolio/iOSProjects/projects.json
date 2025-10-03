@@ -15,6 +15,22 @@
     "work3": "Xcode"
   },
   {
+    "id": 31,
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/filtria.png",
+    "title": "Filtria",
+    "description": "აღმოაჩინეთ 100-ზე მეტი უფასო ფილტრი თვქენი ფოტოებისთვის. სრულიად უფასოდ. აირჩიეთ სასურველი ფილტრი და ერთი დატაპებით შეცვალეთ თვქენი ფოტოები.",
+    "button": "გადმოწერე",
+    "descriptionEng": "Discover over 100 free presets for your photos. No hidden costs, no annoying full-screen ads — just simple and powerful tools to make your images shine.  Choose from presets designed for nature, portraits, beach shots, and more. Every effect is easy to apply with one tap, so you can transform your photos instantly.",
+    "buttonEng": "Download",
+    "githubButton": "Github",
+    "githubLink": "https://github.com/Desp0o/catch-the-agent",
+    "link": "https://apps.apple.com/ge/app/filtria/id6752562761",
+    "work1": "Swift",
+    "work2": "SwiftUI",
+    "work3": "Xcode",
+    "work4": "imageCore"
+  },
+  {
     "id": 1,
     "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/exploreGeorgia.png",
     "title": "Explore Georgia",
