@@ -1,5 +1,20 @@
 [
   {
+    "id": 30,
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/imposter.png",
+    "title": "Catch the Agent",
+    "description": "ითამაშეთ მეგობრებთან ერთად ქართულ ენაზე, 1600+ უნიკალური სიტყვით. აღმოაჩინეთ სახალისო კატეგორიები და იპოვეთ აგენტი თქვენს შორის.",
+    "button": "გადმოწერე",
+    "descriptionEng": "Enjoy the ultimate party game of finding the Agent!  Play with friends, explore fun categories, and challenge your social skills with 1600+ unique words.",
+    "buttonEng": "Download",
+    "githubButton": "Github",
+    "githubLink": "https://github.com/Desp0o/catch-the-agent",
+    "link": "https://apps.apple.com/ge/app/catch-the-agent/id6751771380",
+    "work1": "Swift",
+    "work2": "SwiftUI",
+    "work3": "Xcode"
+  },
+  {
     "id": 1,
     "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/exploreGeorgia.png",
     "title": "Explore Georgia",
