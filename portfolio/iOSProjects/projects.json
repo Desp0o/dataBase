@@ -63,21 +63,6 @@
     "work5": "Xcode"
   },
   {
-    "id": 2,
-    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/izziPixi.png",
-    "title": "IzziPixi",
-    "description": "izziPixi არის მინიმალისტური და მარტივი გამოსაყენებელი აპლიკაცია, რომელიც სწრაფად პიქსელიზაციას უკეთებს სურათებს. აპლიკაცია საშუალებას გაძლევთ დინამიურად შეცვალოთ პიქსელის ზომა სლაიდერით, ხოლო ბოლოს პიქსელიზებულ 20 სურათს ინახავს File Manager-ის საშუალებით.",
-    "button": "დემო",
-    "descriptionEng": "izziPixi is a minimalist and easy-to-use app that quickly pixelates images. The app allows you to dynamically adjust the pixel size with a slider, and it saves the last 20 pixelated images through the File Manager.",
-    "buttonEng": "Demo",
-    "githubButton": "Github",
-    "githubLink": "",
-    "link": "https://www.youtube.com/shorts/sKGBQEWWnKQ",
-    "work1": "Swift",
-    "work2": "SwiftUI",
-    "work3": "Xcode"
-  },
-  {
     "id": 3,
     "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/spotify.png",
     "title": "Mini Spotify",
