@@ -23,12 +23,27 @@
     "descriptionEng": "Discover over 100 free presets for your photos. No hidden costs, no annoying full-screen ads — just simple and powerful tools to make your images shine.  Choose from presets designed for nature, portraits, beach shots, and more. Every effect is easy to apply with one tap, so you can transform your photos instantly.",
     "buttonEng": "Download",
     "githubButton": "Github",
-    "githubLink": "https://github.com/Desp0o/catch-the-agent",
+    "githubLink": "https://github.com/Desp0o/Filtria-public",
     "link": "https://apps.apple.com/ge/app/filtria/id6752562761",
     "work1": "Swift",
     "work2": "SwiftUI",
     "work3": "Xcode",
     "work4": "imageCore"
+  },
+  {
+    "id": 2,
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/izzipixie.png",
+    "title": "IzziPixi",
+    "description": "izziPixi არის მინიმალისტური და მარტივი გამოსაყენებელი აპლიკაცია, რომელიც სწრაფად პიქსელიზაციას უკეთებს სურათებს. აპლიკაცია საშუალებას გაძლევთ დინამიურად შეცვალოთ პიქსელის ზომა სლაიდერით.",
+    "button": "გადმოწერე",
+    "descriptionEng": "izziPixi is a minimalist and easy-to-use app that quickly pixelates images. The app allows you to dynamically adjust the pixel size with a slider.",
+    "buttonEng": "Download",
+    "githubButton": "Github",
+    "githubLink": "https://github.com/Desp0o/izziPixie-public",
+    "link": "https://apps.apple.com/ge/app/izzipixie/id6751784329",
+    "work1": "Swift",
+    "work2": "SwiftUI",
+    "work3": "Xcode"
   },
   {
     "id": 1,
