@@ -1,5 +1,21 @@
 [
   {
+    "id": 32,
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/cozyWall.png",
+    "title": "Cozy Wall",
+    "description": "ვოლფეიფერების აპლიკაცია, სადაც შეგიძლიათ დინამიურად ნახოთ, როგორ ერგება სურათი თქვენს ტელეფონს, დაამატოთ ფავორიტებში და მარტივად ჩამოტვირთოთ. აპლიკაციაში წარმოდგენილია მრავალფეროვანი კატეგორიები და 10,000-ზე მეტი უნიკალური სურათი.",
+    "button": "გადმოწერე",
+    "descriptionEng": "A wallpaper app where you can dynamically preview how each image fits your phone, add favorites, and download them easily. Explore a wide range of categories with over 10,000 unique wallpapers.",
+    "buttonEng": "Download",
+    "githubButton": "Github",
+    "githubLink": "https://github.com/Desp0o/cozy-wall",
+    "link": "https://apps.apple.com/us/app/cozy-wall/id6752570775",
+    "work1": "SwiftUI",
+    "work2": "UIKit",
+    "work3": "Xcode".
+    "work4": "node.js"
+  },
+  {
     "id": 30,
     "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/imposter.png",
     "title": "Catch the Agent",
