@@ -31,6 +31,21 @@
     "work3": "Xcode"
   },
   {
+    "id": 33,
+    "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/messageToWorld.png",
+    "title": "Message To World",
+    "description": "აპლიკაციაში მომხმარებლებს შეუძლიათ სრულიად ანონიმურად დატოვონ შეტყობინებები რუკაზე პინის სახით და აღმოაჩინონ სხვების მიერ მსოფლიოს გარშემო დატოვებული მესიჯები.",
+    "button": "გადმოწერე",
+    "descriptionEng": "In the app, users can leave messages on the map completely anonymously and explore pins left by people from all around the world.",
+    "buttonEng": "Download",
+    "githubButton": "Youtube",
+    "githubLink": "https://youtube.com/shorts/CjBo-bleLL8?feature=share",
+    "link": "https://apps.apple.com/us/app/message-to-world/id6753305871",
+    "work1": "SwiftUI",
+    "work2": "SwiftData",
+    "work3": "Xcode"
+  },
+  {
     "id": 31,
     "image": "https://raw.githubusercontent.com/Desp0o/dataBase/main/portfolio/iOSProjects/covers/filtria.png",
     "title": "Filtria",
